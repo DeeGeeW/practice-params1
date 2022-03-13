@@ -1,0 +1,2 @@
+class WideReceiversController < ApplicationController
+end
